@@ -5,7 +5,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F9%2Findex.m3u8&token=bdf364b961b7a4174a3f176b4fe51d71672c5e6f&is_vip=false&verify=1703743200-puAt26OyREyA0kDSm1mTLwQzUYIIAdLV%2BfRPGQ%2BcMrU%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F9%2Findex.m3u8&token=db034b2731e4c5d22f96c2e7da0322bad90d4693&is_vip=false&verify=1703786400-qYd4629bshE9uzecZFrm21RamZRiP%2FP3iUacHUIYp1I%3D
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORTS", TNT 1
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Live Sports 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8

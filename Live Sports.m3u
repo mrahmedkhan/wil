@@ -9,7 +9,9 @@ https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Live Sports 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 3
-http://xtv.ooo:8080/live/122461/4627451/167578.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F27%2Findex.m3u8&token=727c58c7c6fc86463912329e7a26d88e70076799&is_vip=false&verify=1704024000-R6rrgQ%2FgTWqx60TCcrxLgVWjwqCcF6dZPvAB%2BseAK44%3D
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 4
 https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 5

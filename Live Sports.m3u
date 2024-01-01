@@ -27,7 +27,7 @@ https://dai.google.com/linear/hls/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.scisports.com/wp-content/uploads/2021/09/NeedForSpeed-SciSports-Edition-header-Ligue1-1280x720.jpg",Live Sports 10
 https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/3135979/screenshots/6278215/1-01_4x.jpg?resize=400x0",Live Cricket
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704056561/ei/kYKRZdmZFKCiz7sPkIGr-Ag/ip/144.48.111.248/id/vXwf895Z9Uw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/bd/siu/1/spc/UWF9f7eMGdVisfyeKu_CF7zuxzTY3H8k4svykDBteTJ05pcJJydj2nw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANIeWiamYEgePVMinj0M64wPfQrqL3S8YYziuPPtA6M1AiEA_J9pZEygnyxIRs4Xe1g953hyDhodPL-1wdp-oghInlk%3D/file/index.m3u8
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRuPLTlqmIBnjC3Gtqsk1jy9TTgrD6rBSbgukVj=s900-c-k-c0x00ffffff-no-rj",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Ten 2

@@ -5,10 +5,10 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F2%2Findex.m3u8&token=727c58c7c6fc86463912329e7a26d88e70076799&is_vip=false&verify=1704024000-R6rrgQ%2FgTWqx60TCcrxLgVWjwqCcF6dZPvAB%2BseAK44%3D
-#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Live Sports 2
+https://tvs3.aynaott.com/ssps1hd/tracks-v1a1/mono.m3u8?hdnts=st%3D1704136100%7Eexp%3D1704179300%7Eacl%3D%2F%2A%7Edata%3D144.48.111.251-WEB%7Ehmac%3D125fe46f052e4d3cb7a6e6d8ce29328c0fb8f9bc62d8d665cc4b3530bdf5f6dd
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Premier League 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 3
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F27%2Findex.m3u8&token=727c58c7c6fc86463912329e7a26d88e70076799&is_vip=false&verify=1704024000-R6rrgQ%2FgTWqx60TCcrxLgVWjwqCcF6dZPvAB%2BseAK44%3D

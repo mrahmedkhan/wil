@@ -5,7 +5,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bldcmprod-cdn.toffeelive.com/
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704251303:KeyName=prod_linear:Signature=i1RFRSHZ9af7q107g0EuJPY0nzFqioclY7u1yp14DEIRcIQRxu2h974t4932kqV2zBTvmkSoA6_NP-38BHAVCA
+http://watchindia.net:8880/live/62448/92037/1070.ts
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Premier League 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3

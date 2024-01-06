@@ -5,13 +5,13 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://1stream.soccer/
-https://tvs3.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1704535157~exp=1704578357~acl=/*~data=2a01:4ff:f0:4a83::1-WEB~hmac=2406b6dd6e542602b56b88bb331101696d8881190c324aa17f463a12bb91bcf5
+https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Premier League 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-
+https://hls.streambtw.com/live/stream_2.m3u8
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F3%2Findex.m3u8&token=727c58c7c6fc86463912329e7a26d88e70076799&is_vip=false&verify=1704304800-71DnTYrYxLVwi7xJ%2BFtEYusXNitpWbJQyN6kLWOM3yw%3D
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 4
 https://hls.streambtw.com/live/stream_4.m3u8

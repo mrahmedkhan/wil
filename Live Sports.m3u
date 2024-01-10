@@ -5,27 +5,24 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://1stream.soccer/
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Premier League 2
+
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Premier League 1
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 2
 https://hls.streambtw.com/live/stream_2.m3u8
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F3%2Findex.m3u8&token=727c58c7c6fc86463912329e7a26d88e70076799&is_vip=false&verify=1704304800-71DnTYrYxLVwi7xJ%2BFtEYusXNitpWbJQyN6kLWOM3yw%3D
-#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 4
-https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3
+https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 5
 https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.jpg",Live Sports 6
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.jpg",LaLiga 
 https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 tvg-logo="https://www.soccerbible.com/media/93701/1-serie-a-logo-new.jpg",Live Sports 7
+#EXTINF:-1 tvg-logo="https://www.soccerbible.com/media/93701/1-serie-a-logo-new.jpg",Serie A
 https://hls.streambtw.com/live/stream_7.m3u8
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/latinamerica/files/2015/05/bundesliga.jpg",Live Sports 8
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/latinamerica/files/2015/05/bundesliga.jpg",Bundesliga 
 https://hls.streambtw.com/live/stream_9.m3u8
-#EXTINF:-1 tvg-logo="https://10play.com.au/ip/vs/50/851/Saudi-League-Thumbnail-No-Logo.png?image-profile=index_thumb",Live Sports 9
+#EXTINF:-1 tvg-logo="https://10play.com.au/ip/vs/50/851/Saudi-League-Thumbnail-No-Logo.png?image-profile=index_thumb",Saudi League 
 https://dai.google.com/linear/hls/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.scisports.com/wp-content/uploads/2021/09/NeedForSpeed-SciSports-Edition-header-Ligue1-1280x720.jpg",Live Sports 10
+#EXTINF:-1 tvg-logo="https://www.scisports.com/wp-content/uploads/2021/09/NeedForSpeed-SciSports-Edition-header-Ligue1-1280x720.jpg",Ligue 1
 https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/3135979/screenshots/6278215/1-01_4x.jpg?resize=400x0",Live Cricket
 https://hls.streambtw.com/live/stream_e1.m3u8

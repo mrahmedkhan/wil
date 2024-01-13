@@ -5,7 +5,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://news.cgtn.com/news/2022-05-23/Requirements-revealed-for-countries-to-host-2023-AFC-Asian-Cup-report-1agTYfDO7L2/img/c6256353eaf147fa9a466e7a1d323086/c6256353eaf147fa9a466e7a1d323086.jpeg",AFC Asian Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F41%2Findex.m3u8&token=43badc8610740f29deeb0c6f2c5d82e29929aa3d&is_vip=false&verify=1705125600-fLZtxPhlja46zhb%2FJsYwm3iDXffVDEaCjLTvEooV3OA%3D
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 2
 https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3

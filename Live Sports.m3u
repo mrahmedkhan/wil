@@ -2,10 +2,10 @@
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2022%2F08%2F18%2FT-Sports_logo.jpg&w=1920&q=100",T Sports HD
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1 tvg-logo="https://news.cgtn.com/news/2022-05-23/Requirements-revealed-for-countries-to-host-2023-AFC-Asian-Cup-report-1agTYfDO7L2/img/c6256353eaf147fa9a466e7a1d323086/c6256353eaf147fa9a466e7a1d323086.jpeg",AFC Asian Cup
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.com%2Fstream%2F2%2Findex.fmp4.m3u8&token=6782d5b69e3f0fbffb9693b4ba9ce040eba5d095&is_vip=false&verify=1705147200-FLnsZmf2pWO4AMJGs1QFGx6WKXyW3jAwnfXIew0Yx1A%3D
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 2
 https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3

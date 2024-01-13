@@ -7,6 +7,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F2%2Findex.m3u8&token=6782d5b69e3f0fbffb9693b4ba9ce040eba5d095&is_vip=false&verify=1705168800-ErK1WduWBzKj8Ic%2FU1fXNJ6dEqGd4LgSHumn6%2BUlmnA%3D
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Premier League 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://1stream.soccer/
 https://plpl12.teujyt.space/playlist/18360/reddi11.pkjg.space/caxi.m3u8
 #EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 5
 https://hls.streambtw.com/live/stream_5.m3u8

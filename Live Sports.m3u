@@ -6,8 +6,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F42%2Findex.m3u8&token=6782d5b69e3f0fbffb9693b4ba9ce040eba5d095&is_vip=false&verify=1705255200-EwUb1tmYLMv2MS5CKr7QDotwFGdj9rBKGxKBIvG6SoU%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QUNPoU3MBM786qlUfRUH44KvZN4Zj5jYwQ&usqp=CAU",Premier League 1
 https://hls.streambtw.com/live/stream_1.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QUNPoU3MBM786qlUfRUH44KvZN4Zj5jYwQ&usqp=CAU",Premier League 2
+https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.jpg",LaLiga 
 https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://www.soccerbible.com/media/93701/1-serie-a-logo-new.jpg",Serie A

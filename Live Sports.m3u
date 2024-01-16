@@ -24,10 +24,10 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b2f3a318133289.5ada7a7233f6e.jpg",Star Sports 1
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", KL
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", PKL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream.crichd.vip/
-https://s3.noshwsmkm.com:999/hls/skysme.m3u8?md5=k4myMD0D3ef_vimsXEHxdQ&expires=1705417096
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F31%2Findex.m3u8&token=6782d5b69e3f0fbffb9693b4ba9ce040eba5d095&is_vip=false&verify=1705406400-XMJ0NY2qQY%2B0GQA5duy0sk7hqChODONLaU54SzVlUsM%3D
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORTS", TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/

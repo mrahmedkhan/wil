@@ -3,7 +3,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-k39z7J8QfUQfSN49IUXTY79UdT11R6IQA&usqp=CAU" group-title="LIVE EVENT",Copa Del Ray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F18%2Findex.m3u8&token=bdf364b961b7a4174a3f176b4fe51d71672c5e6f&is_vip=false&verify=1705600800-%2BTXV3HDNGnEEq1fAp29WFi3atgIEUcGDUNQFwz%2F0O5I%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F14%2Findex.m3u8&token=bdf364b961b7a4174a3f176b4fe51d71672c5e6f&is_vip=false&verify=1705600800-%2BTXV3HDNGnEEq1fAp29WFi3atgIEUcGDUNQFwz%2F0O5I%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkulbJLXRaBKicmofmYRF4AcLXN0GKdPfTg&usqp=CAU",AFC Asian Cup 
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_160124/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QUNPoU3MBM786qlUfRUH44KvZN4Zj5jYwQ&usqp=CAU",Premier League 1

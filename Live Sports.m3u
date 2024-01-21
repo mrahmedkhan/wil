@@ -12,6 +12,11 @@ https://hls.streambtw.com/live/stream_1.m3u8
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QUNPoU3MBM786qlUfRUH44KvZN4Zj5jYwQ&usqp=CAU",Premier League 2
 https://hls.streambtw.com/live/stream_2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png",Dazn Laliga
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.jpg",LaLiga 
 https://prod-ent-live-gm.jiocinema.com:443/hls/live/2099846/hd_akamai_merged_avc_eng_laliga_m3_210124/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.soccerbible.com/media/93701/1-serie-a-logo-new.jpg",Serie A

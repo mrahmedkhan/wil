@@ -4,6 +4,12 @@ http://103.77.218.14:8080/memfs/fd8033f6-6637-4fbc-ab79-bb3e104dade4_output_0.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/z.
 http://ddh2.nnotoplay.click/premium270/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.fcbarcelona.com/photo-resources/2024/01/19/611c3893-a93d-4c0f-b09d-82145773de85/web-COPA_REY-quarts.png?width=1200&height=750",Arena 3 Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZfbyOkSF1khh8NUx2V3TZtPj8OE4ww_86Q&usqp=CAU",BPL 4K
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QUNPoU3MBM786qlUfRUH44KvZN4Zj5jYwQ&usqp=CAU",Premier League 1

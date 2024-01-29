@@ -2,10 +2,12 @@
 https://ssportstoday24.000webhostapp.com/world.php?id=27
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZfbyOkSF1khh8NUx2V3TZtPj8OE4ww_86Q&usqp=CAU",BPL 4K
 http://ddh2.nnotoplay.click/premium270/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20brgdgVPDGbm34LRASqUdcx_TKXlVNBo-A&usqp=CAU" group-title="SPORTS", inter miami 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20brgdgVPDGbm34LRASqUdcx_TKXlVNBo-A&usqp=CAU" group-title="SPORTS", Miami Vs Al Hilal 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-http://xtv.ooo:8080/live/Adeel994/426154/353565.m3u8
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F11%2Findex.m3u8&token=ca34c96af891f44ed5aefaccffb76bfde2ac1bd9&is_vip=false&verify=1706529600-dTbgTi28Ijw0Nv3lZPdZ8HVyAcI4PvZREXnGGWjLJ9c%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20brgdgVPDGbm34LRASqUdcx_TKXlVNBo-A&usqp=CAU" group-title="SPORTS", inter miami 
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/3-96SZHr8tRF_ox70mbDwh5Kd3r_TiR4z69x-cEn2QljYeFsR3eyKw1c3JqLJY84s2YSgM4qsla8NUCs2xP_2w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Premier League 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
